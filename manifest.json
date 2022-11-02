@@ -1,0 +1,23 @@
+{
+    "name":"SOUS COMMISSION DES ARBITRES",
+    "short_name":"SCRAR",
+    "description":"Application creer et administrer par Dawa Tech.",
+    "start_url":"./index",
+    "display":"standalone",
+    "orientation": "portrait",
+    "background_color":"#ffffff",
+    "theme_color":"#ffffff",
+    "scope": ".",
+    "icons":[
+    {
+    "src":"src/img/logofsf.png",                     
+    "sizes":"125x126",
+    "type":"image/png"
+    },
+    {
+    "src":"src/img/logofsf.png",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+  ]
+}
